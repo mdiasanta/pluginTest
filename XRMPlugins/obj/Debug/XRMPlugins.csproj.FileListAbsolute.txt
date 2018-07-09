@@ -1,0 +1,7 @@
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\bin\Debug\XRMPlugins.dll
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\bin\Debug\XRMPlugins.pdb
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\obj\Debug\XRMPlugins.csprojResolveAssemblyReference.cache
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\obj\Debug\XRMPlugins.dll
+\\ruhome\mdiasanta$\Desktop\XRMPlugins\XRMPlugins\obj\Debug\XRMPlugins.pdb
